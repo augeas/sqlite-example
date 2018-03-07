@@ -1,3 +1,3 @@
 # Undergraguate Python Excercises
 
-* SQLite: Presentation [notebook](https://github.com/augeas/undergrad-python-exercises/blob/master/notebooks/sqlite_presentation.ipynb) & [slides](https://nbviewer.jupyter.org/github/augeas/undergrad-python-exercises/blob/master/notebooks/sqlite_presentation.ipynb), [excercise](https://github.com/augeas/undergrad-python-exercises/blob/master/notebooks/sqlite_intro.ipynb).
+* SQLite: Presentation [notebook](https://github.com/augeas/undergrad-python-exercises/blob/master/notebooks/sqlite_presentation.ipynb) & [slides](https://nbviewer.jupyter.org/format/slides/github/augeas/undergrad-python-exercises/blob/master/notebooks/sqlite_presentation.ipynb#/), [excercise](https://github.com/augeas/undergrad-python-exercises/blob/master/notebooks/sqlite_intro.ipynb).
